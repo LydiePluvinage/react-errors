@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-errors/static/css/main.2c90f92c.chunk.css",
+    "main.js": "/react-errors/static/js/main.23911b60.chunk.js",
+    "main.js.map": "/react-errors/static/js/main.23911b60.chunk.js.map",
+    "runtime-main.js": "/react-errors/static/js/runtime-main.5c147509.js",
+    "runtime-main.js.map": "/react-errors/static/js/runtime-main.5c147509.js.map",
+    "static/js/2.9db19cb7.chunk.js": "/react-errors/static/js/2.9db19cb7.chunk.js",
+    "static/js/2.9db19cb7.chunk.js.map": "/react-errors/static/js/2.9db19cb7.chunk.js.map",
+    "index.html": "/react-errors/index.html",
+    "static/css/main.2c90f92c.chunk.css.map": "/react-errors/static/css/main.2c90f92c.chunk.css.map",
+    "static/js/2.9db19cb7.chunk.js.LICENSE.txt": "/react-errors/static/js/2.9db19cb7.chunk.js.LICENSE.txt",
+    "static/media/better-call-saul.66f68719.jpeg": "/react-errors/static/media/better-call-saul.66f68719.jpeg",
+    "static/media/breaking-bad.8c81953f.jpg": "/react-errors/static/media/breaking-bad.8c81953f.jpg",
+    "static/media/random.dc019c8d.jpg": "/react-errors/static/media/random.dc019c8d.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5c147509.js",
+    "static/js/2.9db19cb7.chunk.js",
+    "static/css/main.2c90f92c.chunk.css",
+    "static/js/main.23911b60.chunk.js"
+  ]
+}
